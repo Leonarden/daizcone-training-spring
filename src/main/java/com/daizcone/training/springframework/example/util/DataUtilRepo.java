@@ -6,6 +6,10 @@ import java.util.ArrayList;
 
 
 public class DataUtilRepo implements Serializable {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private static List<?>[] dataLists = new List<?>[2]; /*Working with 2 types : STRING , NUMBER*/
 	
 	

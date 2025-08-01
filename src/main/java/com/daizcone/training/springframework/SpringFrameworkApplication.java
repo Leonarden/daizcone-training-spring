@@ -4,7 +4,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
-import com.daizcone.training.springframework.bean.GameRunner;
 import com.daizcone.training.springframework.example.web.*;
 
 @SpringBootApplication
